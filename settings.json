@@ -1,0 +1,6 @@
+{
+  "resource_groups": {
+    "engineering": "rg-controlroster-MYTEAM-eng",
+    "finance": "rg-controlroster-MYTEAM-fin"
+  }
+}
